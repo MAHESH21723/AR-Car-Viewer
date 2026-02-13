@@ -1,0 +1,23 @@
+# ninja log v5
+20	5606	7863155686195978	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e6b94f6e0da624bd
+77	1087	7863155640811887	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	a4c4b3a901d47dbd
+47	4713	7863155676841153	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	176c16e8f08c7b6
+1089	1983	7863155649273218	D:/UNITY/unity project/AR CAR VIWER/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3w6p3b33/obj/arm64-v8a/libswappywrapper.so	867f08ddf05520b3
+29	4623	7863155676204045	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	330d4a088ffeede3
+67	5445	7863155684554247	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	19733a5443846b2d
+1	4774	7863155677531866	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	a819849915a80dda
+11	4927	7863155679336151	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	5c5bf10a38fe12a1
+57	4810	7863155677988104	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	656742de801287ed
+38	5430	7863155684386009	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	a154160ec75214a8
+5607	5755	7863155687746532	D:/UNITY/unity project/AR CAR VIWER/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3w6p3b33/obj/arm64-v8a/libgame.so	6b01b41c239f6ebd
+101	1544	7863504226911118	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	a4c4b3a901d47dbd
+1545	2336	7863504233504292	D:/UNITY/unity project/AR CAR VIWER/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3w6p3b33/obj/arm64-v8a/libswappywrapper.so	867f08ddf05520b3
+68	3920	7863504250619915	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	330d4a088ffeede3
+12	3948	7863504250932889	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	176c16e8f08c7b6
+22	3982	7863504251276126	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	a819849915a80dda
+78	3991	7863504251388180	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	656742de801287ed
+34	4102	7863504252484888	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	5c5bf10a38fe12a1
+89	4323	7863504254709801	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	19733a5443846b2d
+55	4357	7863504255048052	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	a154160ec75214a8
+44	4508	7863504256560764	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e6b94f6e0da624bd
+4508	4618	7863504257722729	D:/UNITY/unity project/AR CAR VIWER/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3w6p3b33/obj/arm64-v8a/libgame.so	6b01b41c239f6ebd
