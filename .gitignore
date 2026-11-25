@@ -1,0 +1,49 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+obj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+Recordings/
+.utmp/
+
+# IDE
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Crash / symbols
+sysinfo.txt
+*.pdb
+*.mdb
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+
+# Misc
+Assets/_Recovery/
+Assets/_Recovery.meta
+.DS_Store
+Thumbs.db
